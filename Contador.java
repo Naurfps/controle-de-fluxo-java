@@ -23,7 +23,7 @@ public class Contador {
         }
 
         for (int i = parametroUm; i < parametroDois; i++) {
-            System.out.println(i);
+            System.out.println("Imprimindo o numero: " + i);
         }
     }
 }
